@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/flask-2.x-orange?style=for-the-badge" alt="Flask">
   <img src="https://img.shields.io/badge/javascript-ES6-yellow?style=for-the-badge" alt="JavaScript">
 </p>
+
 **Transform your scattered notes and brilliant ideas into a centralized, visually stunning dashboard. Projectifier is engineered to bring clarity, focus, and momentum to your creative endeavors.**
 
 ---
@@ -106,9 +107,9 @@ graph TD
 
 Projectifier is the perfect command center for:
 
-  - 👨‍💻 **Indie Developers**: Track every software project, from that first spark of an idea to a full-scale launch.
   - 🛠️ **Hobbyists & Makers**: Organize your creative genius, from woodworking plans to 3D printing queues.
   - 🎓 **Students & Researchers**: Manage academic papers, complex experiments, and critical deadlines in one structured place.
+  - 👨‍💻 **Indie Developers**: Track every software project, from that first spark of an idea to a full-scale launch.
 
 ---
 
@@ -122,7 +123,7 @@ Projectifier is the perfect command center for:
 
 ```bash
 # Three commands to transform your productivity:
-git clone https://github.com/yourusername/projectifier
+git clone https://github.com/zfyant/projectifier
 pip install -r requirements.txt
 python app.py
 
