@@ -4,7 +4,7 @@
 ### ✨ Your Dynamic Command Center for Personal Projects ✨
 
 <p align="center">
-  <img src="https://img.shields.io/badge/version-0.9-blue?style=for-the-badge" alt="Version">
+  <img src="https://img.shields.io/badge/version-0.10.8-blue?style=for-the-badge" alt="Version">
   <img src="https://img.shields.io/badge/license-MIT-green?style=for-the-badge" alt="License">
   <img src="https://img.shields.io/badge/python-3.9+-blueviolet?style=for-the-badge" alt="Python">
   <img src="https://img.shields.io/badge/flask-2.x-orange?style=for-the-badge" alt="Flask">
